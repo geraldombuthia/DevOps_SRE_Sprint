@@ -129,3 +129,23 @@
         - [ ] Highlight key DevOps/SRE skills demonstrated
         - [ ] Prepare documentation for sharing or interviews
 
+## Folder Structure
+```
+devops-sre-sprint/
+├── week1_ci_cd/
+├── week2_terraform/
+├── week3_monitoring/
+├── week4_kubernetes/
+├── runbooks/
+├── dashboards/
+└── README.md
+```
+## Resources
+- Roadmap: [DevOps Roadmap](https://roadmap.sh/devops)
+- [Linux Internals]: (https://linuxcommand.org/tlcl.php)
+- Github Actions: [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- Cmake Documentation: [CMake Documentation](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- Books: 
+  - [Site Reliability Engineering](https://landing.google.com/sre/books/)
+  - TryHackMe / Katacoda labs – Hands-on with cloud & automation
+  - [Prometheus and Grafana docs ](https://grafana.com/tutorials/grafana-fundamentals/)
